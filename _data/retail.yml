@@ -62,6 +62,12 @@ websites:
       img: target.png
       tfa: No
 
+    - name: Trade Me
+      url: http://trademe.co.nz
+      twitter: TradeMe
+      img: trademe.png
+      tfa: No
+      
     - name: Walgreens
       url: http://www.walgreens.com
       twitter: walgreens
